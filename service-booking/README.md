@@ -1,7 +1,6 @@
 # Service Booking System (Flask + Firestore)  
 
-A simple backend system to manage services and bookings using **Flask** and **Google Firestore**.  
-Users can view available services, select time slots, and book them. Duplicate bookings are prevented.  
+A simple backend system to manage services and bookings using **Flask** and **Google Firestore**.  Users can view available services, select time slots, and book them. Duplicate bookings are prevented.  
 
 ---
 
