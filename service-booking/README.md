@@ -19,7 +19,6 @@ Users can view available services, select time slots, and book them. Duplicate b
 
 - **Backend**: Flask (Python)  
 - **Database**: Firestore (Firebase)  
-- **Deployment**: Local / any Flask-supported server  
 
 ---
 
